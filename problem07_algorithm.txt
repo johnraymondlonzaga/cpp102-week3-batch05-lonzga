@@ -1,0 +1,7 @@
+Step 1: Start
+step 2: Ask for the score of seatwork 30%. Input as S
+step 3: Ask for the score of quiz 30%. Input as Q
+step 4: Ask for the score of exam 40%. Input as E
+step 5: Compute the requirement standing
+step 5: Display the Result
+step 6:End
