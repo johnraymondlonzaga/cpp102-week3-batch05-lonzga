@@ -1,0 +1,7 @@
+step 1: Start
+Step 2: Ask for 1st score. input as s1
+Step 3: Ask for 2nd score. input as s2
+Step 4: Ask for 3rd score. input as s3
+Step 5: Compute the Average
+Step 6: Display the Results
+Step 7: End
