@@ -1,0 +1,10 @@
+Step 1: Start
+Step 2: Ask for the price of the 1st product. input as item1
+step 3: Ask for the quatity of the 1st product.
+Step 4: Ask for the price of the 2nd product. input as item2
+Step 5: Ask for the quantity of the 2nd product.
+Step 6: Ask for the price of the 3rd product. input as item3
+Step 7: Ask for the quantity of the 3rd product.
+Step : Compute the sum of the cost
+Step : Display the Results
+Step : End
