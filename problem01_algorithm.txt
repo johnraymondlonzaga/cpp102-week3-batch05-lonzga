@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Ask the number of rows. input as row 1
+Step 3: Ask for the number of column. input as column 1
+Step 4: Complete the sum of the total number of seats
+Step 5: Display the Results
+End
