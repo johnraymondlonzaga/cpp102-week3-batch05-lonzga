@@ -1,0 +1,6 @@
+step 1: Start
+Step 2: Ask for the Length of one side. Input as L
+step 3: Ask for the width of one side. Input as w
+Step 3: Ask to compute the Perimeter
+Step 4: Display the Results
+Step 5: End
