@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Ask for the based pay. input as pay
+Step 3: Ask for the commission rate. input as commission
+Step 5: Compute the sum of the total pay
+Step 6: Display the Results
+Step 7: End
