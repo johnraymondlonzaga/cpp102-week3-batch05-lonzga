@@ -1,0 +1,6 @@
+step 1: Start
+Step 2: Ask for the rate per hour. Input as h
+Step 3: Ask for the total number of hours parked. Input as p 
+Step 4: Compute the sum of the fee
+Step 5: Display the Results
+Step 6: End
